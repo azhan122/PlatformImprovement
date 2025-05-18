@@ -72,7 +72,7 @@ class Platformer extends Phaser.Scene {
                 //scale: 0.07,
                 x: obj2.x,
                 y: obj2.y,
-                duration: 0,
+                duration: 20,
                 scale: { start: 0.1, end: 0 }
             });
         });
